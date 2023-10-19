@@ -168,6 +168,7 @@ create table  students(
 );
 
 
+
 insert into students(student_id, first_name, last_name, course_id, graduation_year)
 values
                      (1, 'Elmur', 'Abdulla', 2, 2026),
